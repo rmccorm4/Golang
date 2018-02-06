@@ -1,2 +1,2 @@
 # Go Tutorial
-Tutorial completed through [](https://golangbot.com)
+Tutorial completed through ![alt](https://golangbot.com)
